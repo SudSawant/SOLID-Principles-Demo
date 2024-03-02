@@ -1,0 +1,17 @@
+
+*.targets
+*.cache
+*.pdb
+*.editorconfig
+*.dll
+*.exe
+SRPDemo/obj/SRPDemo.csproj.nuget.dgspec.json
+SRPDemo/obj/SRPDemo.csproj.nuget.g.props
+SRPDemo/SRPDemo.csproj
+SRPDemo/obj/Debug/net6.0/SRPDemo.GlobalUsings.g.cs
+SRPDemo/bin/Debug/net6.0/SRPDemo.runtimeconfig.json
+SRPDemo/bin/Debug/net6.0/SRPDemo.deps.json
+SRPDemo/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+SRPDemo/obj/Debug/net6.0/SRPDemo.AssemblyInfo.cs
+SRPDemo/obj/Debug/net6.0/SRPDemo.csproj.FileListAbsolute.txt
+SRPDemo/obj/project.assets.json
